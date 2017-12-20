@@ -1,0 +1,38 @@
+{
+  "name": "turbo_mirek_2000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "browser-sync": "^2.18.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-postcss": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UfoAkaJuggalo/Turbo_Mirek_2000.git"
+  },
+  "author": "Ufo aka Juggalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UfoAkaJuggalo/Turbo_Mirek_2000/issues"
+  },
+  "homepage": "https://github.com/UfoAkaJuggalo/Turbo_Mirek_2000#readme"
+}
